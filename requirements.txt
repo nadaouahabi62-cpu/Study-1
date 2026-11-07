@@ -1,0 +1,10 @@
+torch>=2.2
+torch-geometric>=2.5
+gymnasium>=0.29
+numpy
+pyyaml
+pydantic>=2
+networkx
+pytest
+matplotlib
+scipy
